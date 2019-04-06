@@ -4,3 +4,4 @@ Osman Bey
 Learning git.
 Naber *****
 Git otomasyon test
+Discord test
