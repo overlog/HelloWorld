@@ -14,7 +14,7 @@
 - [ ] Machine Learning algoritmaları implement edilecek ve test edilecek
 
 ## Overlog_MachineLearning ##
-- [ ] Fonksiyonların parametreleri ile oynanıp daha iyi bir sonuç almaya çalış
+- [x] Fonksiyonların parametreleri ile oynanıp daha iyi bir sonuç almaya çalış (Yunus)
 - [ ] Datayı kullanabileceğimiz bir log formatına çevir
 
 ## Overlog_Engine ##
