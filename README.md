@@ -4,7 +4,7 @@
 
 #### FRONTEND ####
 - [ ] Component ve viewsde yanlış yerde olan elemanlar doğru dosyaya taşınacak (Örneğin Developersın component değil view klasöründe olması gerekiyor.
-- [x] ~~Ana sayfa tamamlanacak
+- [x] ~~Ana sayfa tamamlanacak~~
 - [ ] Hakkında sayfası tamamlanacak
 - [ ] Login - Signup formlarını düzenle
 - [ ] Routerdaki endpointler düzenlenecek
